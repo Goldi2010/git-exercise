@@ -1,5 +1,5 @@
 static String greet() {
-	return "Hello, World";
+	return "Hi, World";
 }
 
 void main(String[] args) {
